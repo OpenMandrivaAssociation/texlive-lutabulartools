@@ -1,6 +1,6 @@
 Name:		texlive-lutabulartools
 Version:	64780
-Release:	1
+Release:	2
 Summary:	Some useful LuaLaTeX-based tabular tools
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lutabulartools
