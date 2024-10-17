@@ -3,7 +3,7 @@ Version:	67714
 Release:	1
 Summary:	Some useful LuaLaTeX-based tabular tools
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lutabulartools
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lutabulartools
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lutabulartools.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lutabulartools.doc.r%{version}.tar.xz
